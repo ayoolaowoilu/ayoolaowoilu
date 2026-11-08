@@ -44,7 +44,7 @@
 
 | Project | What it is |
 |---|---|
-| [**Oredemy**](https://github.com/d33pbrain/Oredemy) | Student support platform built for a hackathon. [Live site](https://ordemy.netlify.app) |
+
 | **Math Solver** | A math-solving application built around a custom AST, implemented in Rust |
 | **Melee Combat Game** | Unity game with parry, attack, and guard mechanics, plus NavMesh enemy AI |
 | **Shotgun FPS** | First-person Unity game focused on weapon feel: recoil, camera shake, muzzle flash |
@@ -59,7 +59,7 @@
 
 ## 📫 Reach me
 
-- GitHub: [@d33pbrain](https://github.com/d33pbrain)
+- GitHub: [@d33pbrain](https://github.com/ayoolaowoilu)
 
 ---
 
