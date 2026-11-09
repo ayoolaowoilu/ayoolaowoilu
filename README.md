@@ -25,7 +25,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡿⣽⣞⣷⣻⡴⣣⢜⡱⣊⡕⣊⠠⡙⡰⣭⢷⣯⣿⢿
 </pre>
 
-# Hi, I'm Ayoola Owoilu 👋
+# Hi, I'm Ayoola Khaleed👋
 
 **Software developer from Lagos, Nigeria** 🇳🇬 who likes building things, mostly in Rust, and learning by shipping.
 
@@ -44,7 +44,6 @@
 
 | Project | What it is |
 |---|---|
-
 | **Math Solver** | A math-solving application built around a custom AST, implemented in Rust |
 | **Melee Combat Game** | Unity game with parry, attack, and guard mechanics, plus NavMesh enemy AI |
 | **Shotgun FPS** | First-person Unity game focused on weapon feel: recoil, camera shake, muzzle flash |
@@ -59,7 +58,7 @@
 
 ## 📫 Reach me
 
-- GitHub: [@d33pbrain](https://github.com/ayoolaowoilu)
+- GitHub: [@ayoolaowoilu](https://github.com/ayoolaowoilu)
 
 ---
 
